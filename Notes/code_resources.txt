@@ -1,0 +1,5 @@
+https://www.instructables.com/How-To-Play-Mafia-with-And-Without-Cards
+https://github.com/sumedhrasal/simulation
+https://aclanthology.org/2023.emnlp-main.13.pdf
+https://composable-models.github.io/llm_debate/
+https://github.com/zjunlp/LLMAgentPapers
