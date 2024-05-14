@@ -1,25 +1,6 @@
 import random
 import time
 
-"""
-Just the setup for the game. Need to add functionality for LLM discussion
-"""
-
-class MafiaPlayer:
-    def __init__(self, name, role):
-        """
-        Initializes a new instance of the MafiaPlayer class with the given name and role.
-
-        Parameters:
-            name (str): The name of the player.
-            role (str): The role of the player.
-
-        Returns:
-            None
-        """
-        self.name = name
-        self.role = role
-
 class MafiaGame:
     def __init__(self, players):
         """
@@ -27,7 +8,7 @@ class MafiaGame:
         Sets up the initial attributes for the game including players, mafia, doctor, sheriff, civilians, and dead_players.
         
         Parameters:
-            players (list): A list of MafiaPlayer instances representing the players in the game.
+            players (list): A list of MafiaAgent instances representing the players in the game.
         
         Returns:
             None
@@ -124,8 +105,5 @@ class MafiaGame:
 # Setup
 names = ["Player1", "Player2", "Player3", "Player4", "Player5", "Player6", "Player7", "Player8"]
 roles = ["Mafia", "Mafia", "Doctor", "Sheriff", "Civilian", "Civilian", "Civilian", "Civilian"]
-players = [MafiaPlayer(name, role) for name, role in zip(names, roles)]
 
 # Start game
-game = MafiaGame(players)
-game.start_game()

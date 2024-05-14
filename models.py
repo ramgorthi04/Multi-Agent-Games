@@ -4,11 +4,9 @@ import json
 import time 
 import os
 
-def get_lepton_response(prompt, model="mistral-7b", json_mode = False, max_tokens=None):
-    """Gets response from mistral-7b through lepton
-    
-    Model selection can be modified within the function. Currently uses Mistral-7B.
-    
+def get_LM_response(prompt, model="mistral-7b", json_mode = False, max_tokens=None):
+    """Gets response from specified language model via Lepton AI or OpenAI
+        
     Parameters
     ----------
     prompt
@@ -20,6 +18,8 @@ def get_lepton_response(prompt, model="mistral-7b", json_mode = False, max_token
     -------
     response as string
     """
+    if model.startswith('gpt'):
+        return get_gpt_response(prompt, model)  
     if (model == "mistral-7b"):
         model_url = "https://mistral-7b.lepton.run/api/v1/"
     if (model == "Wizardlm-2-8x22b"):
@@ -44,7 +44,6 @@ def get_lepton_response(prompt, model="mistral-7b", json_mode = False, max_token
         print(f"Getting response from {model} with prompt: {prompt}")
     completion = client.chat.completions.create(**completion_args)
 
-
     response = ""
     for chunk in completion:
         if not chunk.choices:
@@ -56,8 +55,8 @@ def get_lepton_response(prompt, model="mistral-7b", json_mode = False, max_token
 
 
 def get_gpt_response(prompt, gpt_model="gpt-4", json_mode=False, response_format=""):
-    """Encapsulates GPT prompting
-    User provides prompt and gets only the text of GPT response
+    """
+    User provides prompt and gets the text of GPT response
 
     Parameters
     ----------
