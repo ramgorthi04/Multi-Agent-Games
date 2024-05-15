@@ -1,7 +1,5 @@
 from openai import OpenAI
 import openai
-import json
-import time 
 import os
 
 def get_LM_response(prompt, model="mistral-7b", json_mode = False, max_tokens=None):
@@ -102,3 +100,6 @@ def get_gpt_response(prompt, gpt_model="gpt-4", json_mode=False, response_format
         return response_text
     else:
         return None
+    
+if __name__ == "__main__":
+    print(get_LM_response("What is the meaning of life?"))
