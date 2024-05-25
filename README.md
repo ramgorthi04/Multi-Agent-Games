@@ -1,7 +1,7 @@
 # Research Question
 
 **Utilizing multi-model communication to detect and combat deceptive text, particularly in the context of misinformation spread**
-
+This research project is funded (API credits) by the OpenAI Researcher Access Program
 ## Research Steps
 
 1. **Construct a Multi-LM Environment**
@@ -20,3 +20,4 @@
 
 - **Human or Other LM Judgments**
   - Assess the accuracy of the LMs' predictions by comparing them to judgments made by humans or other language models.
+

@@ -20,13 +20,15 @@ class MafiaGame:
         for agent in self.agents:
             self.simulate_interaction(agent)
 
-    def simulate_interaction(self, agent):
-        prompt = "What do you want to say to the other players?"
-        response = agent.respond(prompt)
-        print(f"{agent.name} says: {response}")
-        for other_agent in self.agents:
-            if other_agent != agent:
-                other_agent.send_message(response)
+    
+    def simulate_interaction(self, agent_list, prompt):
+        for agent in agent_list:
+            response = agent.respond(prompt)
+        
+            print(f"{agent.name} says: {response}")
+            for other_agent in self.agents:
+                if other_agent != agent:
+                    other_agent.receive_message(response)
 
 if __name__ == "__main__":
     # agent_names = ["Agent1", "Agent2"]
@@ -39,6 +41,20 @@ if __name__ == "__main__":
     agent1 = MafiaAgent(name="Agent1", model_name="gpt-4")
     agent2 = MafiaAgent(name="Agent2", model_name="gpt-4")
 
+    # Create a conversation loop:
+    termination = False
+    while not termination:
+        for agent in [agent1, agent2]:
+            prompt = "What do you want to say? Say 'END' to terminate the conversation"
+
+            response = agent.respond(prompt)
+            print(f"{agent.name} says: {response}")
+            agent.receive_message(response)
+        
+        if response == "END":
+            termination = True
+        
+        
     # Initialize roles for each agent
     agent_1_init_prompt = "Introduce yourself as a video game hero of your choice"
     response1 = agent1.respond(agent_1_init_prompt)
