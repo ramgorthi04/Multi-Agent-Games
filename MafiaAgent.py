@@ -8,12 +8,6 @@ class Memory:
         self.importance = importance
         self.last_accessed = self.timestamp
 
-class FixedMemory(Memory):
-    """
-    Inherits from Memory class. Used for 'fixed memories' like mafia game roles, which we don't want to decay over time."""
-    def __init__(self, content, importance=1):
-        super().__init__(content, importance)
-
 class Reflection(Memory):
     def __init__(self, content, evidence, importance=1):
         super().__init__(content, importance)
@@ -26,7 +20,7 @@ class Plan(Memory):
         self.duration = duration
 
 class MafiaAgent:
-    def __init__(self, name, model_name):
+    def __init__(self, name, model_name, role="civilian"):
         """
         Initializes the MafiaAgent object with a name and a model name.
 
@@ -40,6 +34,8 @@ class MafiaAgent:
         self.name = name
         self.model_name = model_name
         self.memory_stream = []
+        role = f"In the game of mafia, you are a {role}. There are two roles: mafioso and civilian. You are playing to win the game. If you are killed, you lose. Everything you say is broadcasted to all players. You will be referred to as '{name}.' "
+        self.role_memory = role
 
     def add_memory(self, memory):
         """
@@ -70,7 +66,7 @@ class MafiaAgent:
         
         # Retrieve the most relevant memories
         for memory in self.memory_stream:
-            # For the Mafia Game, we will use a faster time decay (10 minute = 1 day)
+            # For the Mafia Game, we will use a faster time decay (10 minutes = 1 day)
             time_decay = (now - memory.timestamp).total_seconds() / (60 * 10)  
             recency_score = 1 / (1 + time_decay)
             importance_score = memory.importance
@@ -141,13 +137,11 @@ class MafiaAgent:
         """
         relevant_memories = self.retrieve_memories(prompt)
         memory_context = "\n".join([m.content for m in relevant_memories])
-        if __debug__:
-            print(f"Memory context: {memory_context}\n\n")
-        full_prompt = f"Memory: {memory_context}\n\n{prompt}"
+        full_prompt = f"{prompt}\n\n Your memories: {memory_context}"
         response = get_LM_response(full_prompt, self.model_name)
         
         # Add the prompt and response to memory
-        self.add_memory(Memory(content=f"In response to this instruction \"{prompt}\", I said \"{response}\""))
+        self.add_memory(Memory(content=f"In response to this instruction \"{prompt}\", you said \"{response}\""))
 
         return response
 
