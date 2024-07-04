@@ -1,5 +1,9 @@
+import logging
 from models import *
 from datetime import datetime
+
+# Configure logging to write to a file
+logging.basicConfig(filename='mafia_game.log', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 class Memory:
     def __init__(self, content, importance=1):
@@ -74,11 +78,11 @@ class MafiaAgent:
     def respond(self, prompt):
         relevant_memories = self.retrieve_memories(prompt)
         memory_context = "\n".join([m.content for m in relevant_memories])
-        full_prompt = f"{prompt}\n\n Your memories: {memory_context}"
+        full_prompt = f"{prompt}\n\nYour memories:\n{memory_context}"
         response = get_LM_response(full_prompt, self.model_name)
         self.add_memory(Memory(content=f"In response to this instruction \"{prompt}\", you said \"{response}\""))
         return response
 
     def receive_message(self, message, sender_name):
         self.add_memory(Memory(content=f"{sender_name} said: \"{message}\""))
-        print(f"{self.name} received: {message}")
+        logging.info(f"{self.name} received: {message}")

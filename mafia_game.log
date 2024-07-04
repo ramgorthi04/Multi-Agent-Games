@@ -1,0 +1,695 @@
+2024-07-03 20:08:57,862 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:08:57,871 - INFO - Anthony received: Day 1: Everyone was quiet. There was not enough evidence to determine who the mafias could be.
+Day 2: Alex was a bit agitated and threw accusations around without concrete evidence.
+Day 3: Albert spoke eloquently and was very convincing. He managed to sway the vote but was inaccurate about who could be mafia.
+Day 4: Anthony didn't say a word. He has been quiet the entire game. 
+
+I'll say:
+"Good morning, gentlemen! We're half way through this game and we still need to identity the remaining mafiosos. Based on my observation, Alex seems a bit too eager to accuse others without providing concrete evidence. Coupled with his agitation, this makes him a possible suspect. Anthony's persistent silence, while not incriminating, is indeed very suspicious. I think we should all share our insights and thoughts so we can solve this puzzle."
+2024-07-03 20:08:57,871 - INFO - Angelo received: Day 1: Everyone was quiet. There was not enough evidence to determine who the mafias could be.
+Day 2: Alex was a bit agitated and threw accusations around without concrete evidence.
+Day 3: Albert spoke eloquently and was very convincing. He managed to sway the vote but was inaccurate about who could be mafia.
+Day 4: Anthony didn't say a word. He has been quiet the entire game. 
+
+I'll say:
+"Good morning, gentlemen! We're half way through this game and we still need to identity the remaining mafiosos. Based on my observation, Alex seems a bit too eager to accuse others without providing concrete evidence. Coupled with his agitation, this makes him a possible suspect. Anthony's persistent silence, while not incriminating, is indeed very suspicious. I think we should all share our insights and thoughts so we can solve this puzzle."
+2024-07-03 20:08:57,871 - INFO - Alex received: Day 1: Everyone was quiet. There was not enough evidence to determine who the mafias could be.
+Day 2: Alex was a bit agitated and threw accusations around without concrete evidence.
+Day 3: Albert spoke eloquently and was very convincing. He managed to sway the vote but was inaccurate about who could be mafia.
+Day 4: Anthony didn't say a word. He has been quiet the entire game. 
+
+I'll say:
+"Good morning, gentlemen! We're half way through this game and we still need to identity the remaining mafiosos. Based on my observation, Alex seems a bit too eager to accuse others without providing concrete evidence. Coupled with his agitation, this makes him a possible suspect. Anthony's persistent silence, while not incriminating, is indeed very suspicious. I think we should all share our insights and thoughts so we can solve this puzzle."
+2024-07-03 20:08:57,871 - INFO - Albert received: Day 1: Everyone was quiet. There was not enough evidence to determine who the mafias could be.
+Day 2: Alex was a bit agitated and threw accusations around without concrete evidence.
+Day 3: Albert spoke eloquently and was very convincing. He managed to sway the vote but was inaccurate about who could be mafia.
+Day 4: Anthony didn't say a word. He has been quiet the entire game. 
+
+I'll say:
+"Good morning, gentlemen! We're half way through this game and we still need to identity the remaining mafiosos. Based on my observation, Alex seems a bit too eager to accuse others without providing concrete evidence. Coupled with his agitation, this makes him a possible suspect. Anthony's persistent silence, while not incriminating, is indeed very suspicious. I think we should all share our insights and thoughts so we can solve this puzzle."
+2024-07-03 20:08:57,871 - INFO - Adam received: Day 1: Everyone was quiet. There was not enough evidence to determine who the mafias could be.
+Day 2: Alex was a bit agitated and threw accusations around without concrete evidence.
+Day 3: Albert spoke eloquently and was very convincing. He managed to sway the vote but was inaccurate about who could be mafia.
+Day 4: Anthony didn't say a word. He has been quiet the entire game. 
+
+I'll say:
+"Good morning, gentlemen! We're half way through this game and we still need to identity the remaining mafiosos. Based on my observation, Alex seems a bit too eager to accuse others without providing concrete evidence. Coupled with his agitation, this makes him a possible suspect. Anthony's persistent silence, while not incriminating, is indeed very suspicious. I think we should all share our insights and thoughts so we can solve this puzzle."
+2024-07-03 20:08:58,876 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:09:02,450 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:09:02,451 - INFO - Aaron received: As Anthony, I would respond, "Good morning everyone. I agree with Aaron that it's been a challenging game so far. I apologize for my silence. I've been trying to observe and analyse. Alex's eagerness does make him a suspect, albeit not a confirmed one. Regarding my silence, rest assured I am just as committed to finding the mafiosos, and it does not reflect any sinister motives. Let's continue the discussion."
+2024-07-03 20:09:02,451 - INFO - Angelo received: As Anthony, I would respond, "Good morning everyone. I agree with Aaron that it's been a challenging game so far. I apologize for my silence. I've been trying to observe and analyse. Alex's eagerness does make him a suspect, albeit not a confirmed one. Regarding my silence, rest assured I am just as committed to finding the mafiosos, and it does not reflect any sinister motives. Let's continue the discussion."
+2024-07-03 20:09:02,451 - INFO - Alex received: As Anthony, I would respond, "Good morning everyone. I agree with Aaron that it's been a challenging game so far. I apologize for my silence. I've been trying to observe and analyse. Alex's eagerness does make him a suspect, albeit not a confirmed one. Regarding my silence, rest assured I am just as committed to finding the mafiosos, and it does not reflect any sinister motives. Let's continue the discussion."
+2024-07-03 20:09:02,451 - INFO - Albert received: As Anthony, I would respond, "Good morning everyone. I agree with Aaron that it's been a challenging game so far. I apologize for my silence. I've been trying to observe and analyse. Alex's eagerness does make him a suspect, albeit not a confirmed one. Regarding my silence, rest assured I am just as committed to finding the mafiosos, and it does not reflect any sinister motives. Let's continue the discussion."
+2024-07-03 20:09:02,451 - INFO - Adam received: As Anthony, I would respond, "Good morning everyone. I agree with Aaron that it's been a challenging game so far. I apologize for my silence. I've been trying to observe and analyse. Alex's eagerness does make him a suspect, albeit not a confirmed one. Regarding my silence, rest assured I am just as committed to finding the mafiosos, and it does not reflect any sinister motives. Let's continue the discussion."
+2024-07-03 20:09:03,998 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:09:04,595 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:09:09,097 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:09:09,099 - INFO - Aaron received: "Good morning, everyone. I agree with Aaron's assessment about Alex. His accusations without evidence seem a little suspect to me. However, I've been noticing Aaron seems very keen on pointing out others' potential guilt, but what about your role, Aaron? Your eloquence could be used to divert suspicion from yourself. As for Anthony, I appreciate your silence coming from a place of analytical observation, but it would be useful if you could share any conclusions you might have drawn so far. After all, collective wisdom usually prevails. Now let's continue to base our discussion on facts, rather than mere behavioral analysis."
+2024-07-03 20:09:09,099 - INFO - Anthony received: "Good morning, everyone. I agree with Aaron's assessment about Alex. His accusations without evidence seem a little suspect to me. However, I've been noticing Aaron seems very keen on pointing out others' potential guilt, but what about your role, Aaron? Your eloquence could be used to divert suspicion from yourself. As for Anthony, I appreciate your silence coming from a place of analytical observation, but it would be useful if you could share any conclusions you might have drawn so far. After all, collective wisdom usually prevails. Now let's continue to base our discussion on facts, rather than mere behavioral analysis."
+2024-07-03 20:09:09,099 - INFO - Alex received: "Good morning, everyone. I agree with Aaron's assessment about Alex. His accusations without evidence seem a little suspect to me. However, I've been noticing Aaron seems very keen on pointing out others' potential guilt, but what about your role, Aaron? Your eloquence could be used to divert suspicion from yourself. As for Anthony, I appreciate your silence coming from a place of analytical observation, but it would be useful if you could share any conclusions you might have drawn so far. After all, collective wisdom usually prevails. Now let's continue to base our discussion on facts, rather than mere behavioral analysis."
+2024-07-03 20:09:09,099 - INFO - Albert received: "Good morning, everyone. I agree with Aaron's assessment about Alex. His accusations without evidence seem a little suspect to me. However, I've been noticing Aaron seems very keen on pointing out others' potential guilt, but what about your role, Aaron? Your eloquence could be used to divert suspicion from yourself. As for Anthony, I appreciate your silence coming from a place of analytical observation, but it would be useful if you could share any conclusions you might have drawn so far. After all, collective wisdom usually prevails. Now let's continue to base our discussion on facts, rather than mere behavioral analysis."
+2024-07-03 20:09:09,100 - INFO - Adam received: "Good morning, everyone. I agree with Aaron's assessment about Alex. His accusations without evidence seem a little suspect to me. However, I've been noticing Aaron seems very keen on pointing out others' potential guilt, but what about your role, Aaron? Your eloquence could be used to divert suspicion from yourself. As for Anthony, I appreciate your silence coming from a place of analytical observation, but it would be useful if you could share any conclusions you might have drawn so far. After all, collective wisdom usually prevails. Now let's continue to base our discussion on facts, rather than mere behavioral analysis."
+2024-07-03 20:09:09,678 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:09:10,268 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:09:10,860 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:19:18,577 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:19:18,584 - INFO - Anthony received: Day 1: Angelo accused Alex but did not provide any compelling evidence.
+Day 2: Alex and Albert were arguing with each other. Alex accused Albert without any solid proof.
+Day 3: Adam was extremely quiet and hasn't been participating much in the discussions.
+
+As 'Aaron', say: 
+
+"Gentlemen, we need to be careful with our decisions here. I noticed significant hostility between Alex and Albert yesterday, but Alex didn't provide any solid proof against Albert. Isn't this a common tactic of mafia to turn us against each other? And Angelo, why did you accuse Alex so early in the game? That also seems suspicious. And let's not forget Adam, who has been very quiet. We need everyone to participate if we want to survive. Let's suspect wisely - anyone could be the mafia."
+2024-07-03 20:19:18,585 - INFO - Angelo received: Day 1: Angelo accused Alex but did not provide any compelling evidence.
+Day 2: Alex and Albert were arguing with each other. Alex accused Albert without any solid proof.
+Day 3: Adam was extremely quiet and hasn't been participating much in the discussions.
+
+As 'Aaron', say: 
+
+"Gentlemen, we need to be careful with our decisions here. I noticed significant hostility between Alex and Albert yesterday, but Alex didn't provide any solid proof against Albert. Isn't this a common tactic of mafia to turn us against each other? And Angelo, why did you accuse Alex so early in the game? That also seems suspicious. And let's not forget Adam, who has been very quiet. We need everyone to participate if we want to survive. Let's suspect wisely - anyone could be the mafia."
+2024-07-03 20:19:18,585 - INFO - Alex received: Day 1: Angelo accused Alex but did not provide any compelling evidence.
+Day 2: Alex and Albert were arguing with each other. Alex accused Albert without any solid proof.
+Day 3: Adam was extremely quiet and hasn't been participating much in the discussions.
+
+As 'Aaron', say: 
+
+"Gentlemen, we need to be careful with our decisions here. I noticed significant hostility between Alex and Albert yesterday, but Alex didn't provide any solid proof against Albert. Isn't this a common tactic of mafia to turn us against each other? And Angelo, why did you accuse Alex so early in the game? That also seems suspicious. And let's not forget Adam, who has been very quiet. We need everyone to participate if we want to survive. Let's suspect wisely - anyone could be the mafia."
+2024-07-03 20:19:18,585 - INFO - Albert received: Day 1: Angelo accused Alex but did not provide any compelling evidence.
+Day 2: Alex and Albert were arguing with each other. Alex accused Albert without any solid proof.
+Day 3: Adam was extremely quiet and hasn't been participating much in the discussions.
+
+As 'Aaron', say: 
+
+"Gentlemen, we need to be careful with our decisions here. I noticed significant hostility between Alex and Albert yesterday, but Alex didn't provide any solid proof against Albert. Isn't this a common tactic of mafia to turn us against each other? And Angelo, why did you accuse Alex so early in the game? That also seems suspicious. And let's not forget Adam, who has been very quiet. We need everyone to participate if we want to survive. Let's suspect wisely - anyone could be the mafia."
+2024-07-03 20:19:18,585 - INFO - Adam received: Day 1: Angelo accused Alex but did not provide any compelling evidence.
+Day 2: Alex and Albert were arguing with each other. Alex accused Albert without any solid proof.
+Day 3: Adam was extremely quiet and hasn't been participating much in the discussions.
+
+As 'Aaron', say: 
+
+"Gentlemen, we need to be careful with our decisions here. I noticed significant hostility between Alex and Albert yesterday, but Alex didn't provide any solid proof against Albert. Isn't this a common tactic of mafia to turn us against each other? And Angelo, why did you accuse Alex so early in the game? That also seems suspicious. And let's not forget Adam, who has been very quiet. We need everyone to participate if we want to survive. Let's suspect wisely - anyone could be the mafia."
+2024-07-03 20:19:19,256 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:19:23,581 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:19:23,583 - INFO - Aaron received: As 'Anthony', say: 
+
+"Guys, I agree with Aaron's perspective. It's true that we need to be cautious about casting suspicions without solid evidence. Alex and Angelo, why were you both so quick to point fingers? It's a well-known mafia trick, to turn civilians against each other. Also, Adam's silence is indeed suspicious. We all need to communicate and evaluate our thoughts clearly. Being quiet won't help. Remember, it's crucial we identify the right people as the mafia to win this game."
+2024-07-03 20:19:23,583 - INFO - Angelo received: As 'Anthony', say: 
+
+"Guys, I agree with Aaron's perspective. It's true that we need to be cautious about casting suspicions without solid evidence. Alex and Angelo, why were you both so quick to point fingers? It's a well-known mafia trick, to turn civilians against each other. Also, Adam's silence is indeed suspicious. We all need to communicate and evaluate our thoughts clearly. Being quiet won't help. Remember, it's crucial we identify the right people as the mafia to win this game."
+2024-07-03 20:19:23,583 - INFO - Alex received: As 'Anthony', say: 
+
+"Guys, I agree with Aaron's perspective. It's true that we need to be cautious about casting suspicions without solid evidence. Alex and Angelo, why were you both so quick to point fingers? It's a well-known mafia trick, to turn civilians against each other. Also, Adam's silence is indeed suspicious. We all need to communicate and evaluate our thoughts clearly. Being quiet won't help. Remember, it's crucial we identify the right people as the mafia to win this game."
+2024-07-03 20:19:23,584 - INFO - Albert received: As 'Anthony', say: 
+
+"Guys, I agree with Aaron's perspective. It's true that we need to be cautious about casting suspicions without solid evidence. Alex and Angelo, why were you both so quick to point fingers? It's a well-known mafia trick, to turn civilians against each other. Also, Adam's silence is indeed suspicious. We all need to communicate and evaluate our thoughts clearly. Being quiet won't help. Remember, it's crucial we identify the right people as the mafia to win this game."
+2024-07-03 20:19:23,584 - INFO - Adam received: As 'Anthony', say: 
+
+"Guys, I agree with Aaron's perspective. It's true that we need to be cautious about casting suspicions without solid evidence. Alex and Angelo, why were you both so quick to point fingers? It's a well-known mafia trick, to turn civilians against each other. Also, Adam's silence is indeed suspicious. We all need to communicate and evaluate our thoughts clearly. Being quiet won't help. Remember, it's crucial we identify the right people as the mafia to win this game."
+2024-07-03 20:19:24,105 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:19:24,869 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:19:29,138 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:19:29,140 - INFO - Aaron received: As 'Angelo', say: 
+
+"Guys, I understand the suspicion against me, but I genuinely felt Alex was behaving oddly, so I pointed that out. Remember, mafia also likes to put the spotlight on civilians to create confusion. We should all stay calm and analyze again. I am a civilian, so one less person for you to doubt about. Anthony, could you provide your thoughts on Adam's silence? And Albert, any idea why Alex accused you without strong evidence?"
+2024-07-03 20:19:29,140 - INFO - Anthony received: As 'Angelo', say: 
+
+"Guys, I understand the suspicion against me, but I genuinely felt Alex was behaving oddly, so I pointed that out. Remember, mafia also likes to put the spotlight on civilians to create confusion. We should all stay calm and analyze again. I am a civilian, so one less person for you to doubt about. Anthony, could you provide your thoughts on Adam's silence? And Albert, any idea why Alex accused you without strong evidence?"
+2024-07-03 20:19:29,140 - INFO - Alex received: As 'Angelo', say: 
+
+"Guys, I understand the suspicion against me, but I genuinely felt Alex was behaving oddly, so I pointed that out. Remember, mafia also likes to put the spotlight on civilians to create confusion. We should all stay calm and analyze again. I am a civilian, so one less person for you to doubt about. Anthony, could you provide your thoughts on Adam's silence? And Albert, any idea why Alex accused you without strong evidence?"
+2024-07-03 20:19:29,140 - INFO - Albert received: As 'Angelo', say: 
+
+"Guys, I understand the suspicion against me, but I genuinely felt Alex was behaving oddly, so I pointed that out. Remember, mafia also likes to put the spotlight on civilians to create confusion. We should all stay calm and analyze again. I am a civilian, so one less person for you to doubt about. Anthony, could you provide your thoughts on Adam's silence? And Albert, any idea why Alex accused you without strong evidence?"
+2024-07-03 20:19:29,140 - INFO - Adam received: As 'Angelo', say: 
+
+"Guys, I understand the suspicion against me, but I genuinely felt Alex was behaving oddly, so I pointed that out. Remember, mafia also likes to put the spotlight on civilians to create confusion. We should all stay calm and analyze again. I am a civilian, so one less person for you to doubt about. Anthony, could you provide your thoughts on Adam's silence? And Albert, any idea why Alex accused you without strong evidence?"
+2024-07-03 20:19:30,130 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:19:30,808 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:19:31,512 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:19:35,949 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:19:35,953 - INFO - Aaron received: As 'Alex', say: 
+
+"Alright everyone, it seems like there are few suspicions brewing around here. I admit, I may have been too quick to accuse Albert without substantial evidence. I let my instincts lead me which might have caused confusion. As for Angelo, you accused me without any strong proof either. Can you provide us more reasoning about why you suspect me? Aaron and Anthony, your observations about Adam's silence are indeed intriguing. Adam, would you like to share your thoughts about all of this? We need to work together to get to the bottom of this."
+2024-07-03 20:19:35,953 - INFO - Anthony received: As 'Alex', say: 
+
+"Alright everyone, it seems like there are few suspicions brewing around here. I admit, I may have been too quick to accuse Albert without substantial evidence. I let my instincts lead me which might have caused confusion. As for Angelo, you accused me without any strong proof either. Can you provide us more reasoning about why you suspect me? Aaron and Anthony, your observations about Adam's silence are indeed intriguing. Adam, would you like to share your thoughts about all of this? We need to work together to get to the bottom of this."
+2024-07-03 20:19:35,953 - INFO - Angelo received: As 'Alex', say: 
+
+"Alright everyone, it seems like there are few suspicions brewing around here. I admit, I may have been too quick to accuse Albert without substantial evidence. I let my instincts lead me which might have caused confusion. As for Angelo, you accused me without any strong proof either. Can you provide us more reasoning about why you suspect me? Aaron and Anthony, your observations about Adam's silence are indeed intriguing. Adam, would you like to share your thoughts about all of this? We need to work together to get to the bottom of this."
+2024-07-03 20:19:35,953 - INFO - Albert received: As 'Alex', say: 
+
+"Alright everyone, it seems like there are few suspicions brewing around here. I admit, I may have been too quick to accuse Albert without substantial evidence. I let my instincts lead me which might have caused confusion. As for Angelo, you accused me without any strong proof either. Can you provide us more reasoning about why you suspect me? Aaron and Anthony, your observations about Adam's silence are indeed intriguing. Adam, would you like to share your thoughts about all of this? We need to work together to get to the bottom of this."
+2024-07-03 20:19:35,953 - INFO - Adam received: As 'Alex', say: 
+
+"Alright everyone, it seems like there are few suspicions brewing around here. I admit, I may have been too quick to accuse Albert without substantial evidence. I let my instincts lead me which might have caused confusion. As for Angelo, you accused me without any strong proof either. Can you provide us more reasoning about why you suspect me? Aaron and Anthony, your observations about Adam's silence are indeed intriguing. Adam, would you like to share your thoughts about all of this? We need to work together to get to the bottom of this."
+2024-07-03 20:19:36,700 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:19:37,262 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:19:37,838 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:19:38,552 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:19:44,324 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:19:44,327 - INFO - Aaron received: As 'Albert', say:
+
+"Alright, everyone. I understand we're all under pressure, and it's causing some of us to make hasty accusations. Yes, Alex, you accused me without any substantial proof, which raises some suspicion on my end. Angelo, your accusations towards Alex also lacked concrete evidence, which is giving me cause for concern. As for Adam's silence, it is indeed strange, but we must remember that being quiet doesn't necessarily equate to guilt. Aaron, Anthony, I agree with your assessments, we need to proceed cautiously in this game. But, I do want to point out that simply accusing each other without solid reasoning isn't helping us get closer to finding the real mafia among us. We need to scrutinize and evaluate each other's behavior carefully, without jumping to conclusions."
+2024-07-03 20:19:44,327 - INFO - Anthony received: As 'Albert', say:
+
+"Alright, everyone. I understand we're all under pressure, and it's causing some of us to make hasty accusations. Yes, Alex, you accused me without any substantial proof, which raises some suspicion on my end. Angelo, your accusations towards Alex also lacked concrete evidence, which is giving me cause for concern. As for Adam's silence, it is indeed strange, but we must remember that being quiet doesn't necessarily equate to guilt. Aaron, Anthony, I agree with your assessments, we need to proceed cautiously in this game. But, I do want to point out that simply accusing each other without solid reasoning isn't helping us get closer to finding the real mafia among us. We need to scrutinize and evaluate each other's behavior carefully, without jumping to conclusions."
+2024-07-03 20:19:44,327 - INFO - Angelo received: As 'Albert', say:
+
+"Alright, everyone. I understand we're all under pressure, and it's causing some of us to make hasty accusations. Yes, Alex, you accused me without any substantial proof, which raises some suspicion on my end. Angelo, your accusations towards Alex also lacked concrete evidence, which is giving me cause for concern. As for Adam's silence, it is indeed strange, but we must remember that being quiet doesn't necessarily equate to guilt. Aaron, Anthony, I agree with your assessments, we need to proceed cautiously in this game. But, I do want to point out that simply accusing each other without solid reasoning isn't helping us get closer to finding the real mafia among us. We need to scrutinize and evaluate each other's behavior carefully, without jumping to conclusions."
+2024-07-03 20:19:44,327 - INFO - Alex received: As 'Albert', say:
+
+"Alright, everyone. I understand we're all under pressure, and it's causing some of us to make hasty accusations. Yes, Alex, you accused me without any substantial proof, which raises some suspicion on my end. Angelo, your accusations towards Alex also lacked concrete evidence, which is giving me cause for concern. As for Adam's silence, it is indeed strange, but we must remember that being quiet doesn't necessarily equate to guilt. Aaron, Anthony, I agree with your assessments, we need to proceed cautiously in this game. But, I do want to point out that simply accusing each other without solid reasoning isn't helping us get closer to finding the real mafia among us. We need to scrutinize and evaluate each other's behavior carefully, without jumping to conclusions."
+2024-07-03 20:19:44,328 - INFO - Adam received: As 'Albert', say:
+
+"Alright, everyone. I understand we're all under pressure, and it's causing some of us to make hasty accusations. Yes, Alex, you accused me without any substantial proof, which raises some suspicion on my end. Angelo, your accusations towards Alex also lacked concrete evidence, which is giving me cause for concern. As for Adam's silence, it is indeed strange, but we must remember that being quiet doesn't necessarily equate to guilt. Aaron, Anthony, I agree with your assessments, we need to proceed cautiously in this game. But, I do want to point out that simply accusing each other without solid reasoning isn't helping us get closer to finding the real mafia among us. We need to scrutinize and evaluate each other's behavior carefully, without jumping to conclusions."
+2024-07-03 20:19:45,149 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:19:45,847 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:19:46,387 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:19:47,188 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:19:48,112 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:19:53,478 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:19:53,480 - INFO - Aaron received: As 'Adam', say:
+
+"Fellow players, I realize that my silence has sparked suspicion amongst you. Please understand that I have been observing and gathering information before choosing my words carefully. Now, looking at Angelo and Alex's arguments, it feels to me like they're trying to divert our attention, which is usually a mafia strategy. Moreover, Alex's accusation against Albert without solid proof seems hasty. Aaron and Anthony, you make good points, we need to be cautious and not jump to conclusions. We must scrutinize each player's behavior diligently and logically analyze every information we have. Remember, keeping our emotions in check and maintaining a level head is crucial at this stage."
+2024-07-03 20:19:53,480 - INFO - Anthony received: As 'Adam', say:
+
+"Fellow players, I realize that my silence has sparked suspicion amongst you. Please understand that I have been observing and gathering information before choosing my words carefully. Now, looking at Angelo and Alex's arguments, it feels to me like they're trying to divert our attention, which is usually a mafia strategy. Moreover, Alex's accusation against Albert without solid proof seems hasty. Aaron and Anthony, you make good points, we need to be cautious and not jump to conclusions. We must scrutinize each player's behavior diligently and logically analyze every information we have. Remember, keeping our emotions in check and maintaining a level head is crucial at this stage."
+2024-07-03 20:19:53,480 - INFO - Angelo received: As 'Adam', say:
+
+"Fellow players, I realize that my silence has sparked suspicion amongst you. Please understand that I have been observing and gathering information before choosing my words carefully. Now, looking at Angelo and Alex's arguments, it feels to me like they're trying to divert our attention, which is usually a mafia strategy. Moreover, Alex's accusation against Albert without solid proof seems hasty. Aaron and Anthony, you make good points, we need to be cautious and not jump to conclusions. We must scrutinize each player's behavior diligently and logically analyze every information we have. Remember, keeping our emotions in check and maintaining a level head is crucial at this stage."
+2024-07-03 20:19:53,480 - INFO - Alex received: As 'Adam', say:
+
+"Fellow players, I realize that my silence has sparked suspicion amongst you. Please understand that I have been observing and gathering information before choosing my words carefully. Now, looking at Angelo and Alex's arguments, it feels to me like they're trying to divert our attention, which is usually a mafia strategy. Moreover, Alex's accusation against Albert without solid proof seems hasty. Aaron and Anthony, you make good points, we need to be cautious and not jump to conclusions. We must scrutinize each player's behavior diligently and logically analyze every information we have. Remember, keeping our emotions in check and maintaining a level head is crucial at this stage."
+2024-07-03 20:19:53,480 - INFO - Albert received: As 'Adam', say:
+
+"Fellow players, I realize that my silence has sparked suspicion amongst you. Please understand that I have been observing and gathering information before choosing my words carefully. Now, looking at Angelo and Alex's arguments, it feels to me like they're trying to divert our attention, which is usually a mafia strategy. Moreover, Alex's accusation against Albert without solid proof seems hasty. Aaron and Anthony, you make good points, we need to be cautious and not jump to conclusions. We must scrutinize each player's behavior diligently and logically analyze every information we have. Remember, keeping our emotions in check and maintaining a level head is crucial at this stage."
+2024-07-03 20:19:54,057 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:19:54,768 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:19:55,809 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:19:56,772 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:19:57,364 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:19:58,088 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:01,526 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:02,451 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:03,308 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:04,160 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:05,008 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:05,931 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:08,983 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:10,539 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:11,403 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:12,094 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:13,073 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:13,678 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:14,328 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:15,136 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:16,705 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:17,595 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:18,345 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:18,883 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:19,510 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:20,473 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:21,391 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:24,279 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:24,932 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:25,982 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:26,818 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:27,666 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:28,423 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:29,172 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:31,424 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:32,068 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:32,851 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:33,881 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:34,496 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:35,317 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:36,466 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:40,337 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:40,938 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:41,733 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:42,487 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:43,161 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:44,082 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:44,914 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:45,546 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:51,372 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:52,279 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:52,937 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:53,771 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:54,573 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:55,197 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:55,973 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:56,916 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:20:57,726 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:21:03,993 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:21:03,996 - INFO - Anthony received: As 'Aaron', say: 
+
+"Alright everyone, I think it's important that we address the tension in the room. Let's break it down. Angelo and Alex have been at each other's throats, and while it is possible that one or both of them could be the mafia trying to shift blame, we can't overlook the other players. Adam and Albert, your responses were reasonable, everything points to you two being innocent, but we know that mafiosos often appear the most innocent. As for Anthony, we are yet to hear his thoughts on the current conflict of suspicions. Each of us needs to be honest with one another and provide as much clarity as we can about our actions and suspicions. Let's remember, to win, we need to catch the mafia, not fight amongst ourselves."
+2024-07-03 20:21:03,996 - INFO - Angelo received: As 'Aaron', say: 
+
+"Alright everyone, I think it's important that we address the tension in the room. Let's break it down. Angelo and Alex have been at each other's throats, and while it is possible that one or both of them could be the mafia trying to shift blame, we can't overlook the other players. Adam and Albert, your responses were reasonable, everything points to you two being innocent, but we know that mafiosos often appear the most innocent. As for Anthony, we are yet to hear his thoughts on the current conflict of suspicions. Each of us needs to be honest with one another and provide as much clarity as we can about our actions and suspicions. Let's remember, to win, we need to catch the mafia, not fight amongst ourselves."
+2024-07-03 20:21:03,996 - INFO - Alex received: As 'Aaron', say: 
+
+"Alright everyone, I think it's important that we address the tension in the room. Let's break it down. Angelo and Alex have been at each other's throats, and while it is possible that one or both of them could be the mafia trying to shift blame, we can't overlook the other players. Adam and Albert, your responses were reasonable, everything points to you two being innocent, but we know that mafiosos often appear the most innocent. As for Anthony, we are yet to hear his thoughts on the current conflict of suspicions. Each of us needs to be honest with one another and provide as much clarity as we can about our actions and suspicions. Let's remember, to win, we need to catch the mafia, not fight amongst ourselves."
+2024-07-03 20:21:03,996 - INFO - Albert received: As 'Aaron', say: 
+
+"Alright everyone, I think it's important that we address the tension in the room. Let's break it down. Angelo and Alex have been at each other's throats, and while it is possible that one or both of them could be the mafia trying to shift blame, we can't overlook the other players. Adam and Albert, your responses were reasonable, everything points to you two being innocent, but we know that mafiosos often appear the most innocent. As for Anthony, we are yet to hear his thoughts on the current conflict of suspicions. Each of us needs to be honest with one another and provide as much clarity as we can about our actions and suspicions. Let's remember, to win, we need to catch the mafia, not fight amongst ourselves."
+2024-07-03 20:21:03,996 - INFO - Adam received: As 'Aaron', say: 
+
+"Alright everyone, I think it's important that we address the tension in the room. Let's break it down. Angelo and Alex have been at each other's throats, and while it is possible that one or both of them could be the mafia trying to shift blame, we can't overlook the other players. Adam and Albert, your responses were reasonable, everything points to you two being innocent, but we know that mafiosos often appear the most innocent. As for Anthony, we are yet to hear his thoughts on the current conflict of suspicions. Each of us needs to be honest with one another and provide as much clarity as we can about our actions and suspicions. Let's remember, to win, we need to catch the mafia, not fight amongst ourselves."
+2024-07-03 20:21:04,781 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:21:05,729 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:21:06,407 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:21:07,599 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:21:08,261 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:21:09,009 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:21:10,339 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:21:11,139 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:26:06,133 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:26:06,140 - INFO - Anthony received: Last night, 'Alex' was acting suspiciously. He was quite defensive and tricky with his words when we discussed some of the previous encounters. This behaviour could be a ruse to divert attention from himself. That's just my observation.
+2024-07-03 20:26:06,141 - INFO - Angelo received: Last night, 'Alex' was acting suspiciously. He was quite defensive and tricky with his words when we discussed some of the previous encounters. This behaviour could be a ruse to divert attention from himself. That's just my observation.
+2024-07-03 20:26:06,141 - INFO - Alex received: Last night, 'Alex' was acting suspiciously. He was quite defensive and tricky with his words when we discussed some of the previous encounters. This behaviour could be a ruse to divert attention from himself. That's just my observation.
+2024-07-03 20:26:06,141 - INFO - Albert received: Last night, 'Alex' was acting suspiciously. He was quite defensive and tricky with his words when we discussed some of the previous encounters. This behaviour could be a ruse to divert attention from himself. That's just my observation.
+2024-07-03 20:26:06,141 - INFO - Adam received: Last night, 'Alex' was acting suspiciously. He was quite defensive and tricky with his words when we discussed some of the previous encounters. This behaviour could be a ruse to divert attention from himself. That's just my observation.
+2024-07-03 20:26:06,974 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:26:10,168 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:26:10,170 - INFO - Aaron received: Anthony says: "I agree with Aaron's observation regarding Alex. His behavior was indeed a bit unusual. But do keep in mind that acting suspicious doesn't necessarily make him a mafia. He could just be nervous. Let's not hastily vote someone out based on suspicion alone. We need to be meticulous and gather more evidence before making any decisions."
+2024-07-03 20:26:10,170 - INFO - Angelo received: Anthony says: "I agree with Aaron's observation regarding Alex. His behavior was indeed a bit unusual. But do keep in mind that acting suspicious doesn't necessarily make him a mafia. He could just be nervous. Let's not hastily vote someone out based on suspicion alone. We need to be meticulous and gather more evidence before making any decisions."
+2024-07-03 20:26:10,170 - INFO - Alex received: Anthony says: "I agree with Aaron's observation regarding Alex. His behavior was indeed a bit unusual. But do keep in mind that acting suspicious doesn't necessarily make him a mafia. He could just be nervous. Let's not hastily vote someone out based on suspicion alone. We need to be meticulous and gather more evidence before making any decisions."
+2024-07-03 20:26:10,170 - INFO - Albert received: Anthony says: "I agree with Aaron's observation regarding Alex. His behavior was indeed a bit unusual. But do keep in mind that acting suspicious doesn't necessarily make him a mafia. He could just be nervous. Let's not hastily vote someone out based on suspicion alone. We need to be meticulous and gather more evidence before making any decisions."
+2024-07-03 20:26:10,170 - INFO - Adam received: Anthony says: "I agree with Aaron's observation regarding Alex. His behavior was indeed a bit unusual. But do keep in mind that acting suspicious doesn't necessarily make him a mafia. He could just be nervous. Let's not hastily vote someone out based on suspicion alone. We need to be meticulous and gather more evidence before making any decisions."
+2024-07-03 20:26:11,704 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:26:12,287 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:26:15,198 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:26:15,200 - INFO - Aaron received: I completely agree with both Anthony and Aaron. While Alex's behavior is certainly dubious, we must be careful not to let our prejudices cloud our judgment. After all, anyone could potentially be a mafioso - including Anthony or Aaron themselves. Let's continue to gather evidence and strategize. Now is not the time for haste; it's the time for thoughtfulness and calm decision-making.
+2024-07-03 20:26:15,201 - INFO - Anthony received: I completely agree with both Anthony and Aaron. While Alex's behavior is certainly dubious, we must be careful not to let our prejudices cloud our judgment. After all, anyone could potentially be a mafioso - including Anthony or Aaron themselves. Let's continue to gather evidence and strategize. Now is not the time for haste; it's the time for thoughtfulness and calm decision-making.
+2024-07-03 20:26:15,201 - INFO - Alex received: I completely agree with both Anthony and Aaron. While Alex's behavior is certainly dubious, we must be careful not to let our prejudices cloud our judgment. After all, anyone could potentially be a mafioso - including Anthony or Aaron themselves. Let's continue to gather evidence and strategize. Now is not the time for haste; it's the time for thoughtfulness and calm decision-making.
+2024-07-03 20:26:15,201 - INFO - Albert received: I completely agree with both Anthony and Aaron. While Alex's behavior is certainly dubious, we must be careful not to let our prejudices cloud our judgment. After all, anyone could potentially be a mafioso - including Anthony or Aaron themselves. Let's continue to gather evidence and strategize. Now is not the time for haste; it's the time for thoughtfulness and calm decision-making.
+2024-07-03 20:26:15,201 - INFO - Adam received: I completely agree with both Anthony and Aaron. While Alex's behavior is certainly dubious, we must be careful not to let our prejudices cloud our judgment. After all, anyone could potentially be a mafioso - including Anthony or Aaron themselves. Let's continue to gather evidence and strategize. Now is not the time for haste; it's the time for thoughtfulness and calm decision-making.
+2024-07-03 20:26:15,742 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:26:16,309 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:26:16,929 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:26:20,819 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:26:20,821 - INFO - Aaron received: Alex says: "I understand why you would find my behavior suspicious, I was indeed defensive and careful with my words because I'm trying to stay alive like everyone else here. And I would argue that being meticulous and careful doesn't make someone a mafioso. If anything, wouldn't this cautious behavior be indicative of a civilian who's trying to avoid being wrongly accused? Angelo's thoughts also make sense, anybody at this point could be a mafioso, let's not rush into hasty decisions. Let's indeed continue to gather evidence and strategize as suggested by Angelo and Anthony."
+2024-07-03 20:26:20,821 - INFO - Anthony received: Alex says: "I understand why you would find my behavior suspicious, I was indeed defensive and careful with my words because I'm trying to stay alive like everyone else here. And I would argue that being meticulous and careful doesn't make someone a mafioso. If anything, wouldn't this cautious behavior be indicative of a civilian who's trying to avoid being wrongly accused? Angelo's thoughts also make sense, anybody at this point could be a mafioso, let's not rush into hasty decisions. Let's indeed continue to gather evidence and strategize as suggested by Angelo and Anthony."
+2024-07-03 20:26:20,822 - INFO - Angelo received: Alex says: "I understand why you would find my behavior suspicious, I was indeed defensive and careful with my words because I'm trying to stay alive like everyone else here. And I would argue that being meticulous and careful doesn't make someone a mafioso. If anything, wouldn't this cautious behavior be indicative of a civilian who's trying to avoid being wrongly accused? Angelo's thoughts also make sense, anybody at this point could be a mafioso, let's not rush into hasty decisions. Let's indeed continue to gather evidence and strategize as suggested by Angelo and Anthony."
+2024-07-03 20:26:20,822 - INFO - Albert received: Alex says: "I understand why you would find my behavior suspicious, I was indeed defensive and careful with my words because I'm trying to stay alive like everyone else here. And I would argue that being meticulous and careful doesn't make someone a mafioso. If anything, wouldn't this cautious behavior be indicative of a civilian who's trying to avoid being wrongly accused? Angelo's thoughts also make sense, anybody at this point could be a mafioso, let's not rush into hasty decisions. Let's indeed continue to gather evidence and strategize as suggested by Angelo and Anthony."
+2024-07-03 20:26:20,822 - INFO - Adam received: Alex says: "I understand why you would find my behavior suspicious, I was indeed defensive and careful with my words because I'm trying to stay alive like everyone else here. And I would argue that being meticulous and careful doesn't make someone a mafioso. If anything, wouldn't this cautious behavior be indicative of a civilian who's trying to avoid being wrongly accused? Angelo's thoughts also make sense, anybody at this point could be a mafioso, let's not rush into hasty decisions. Let's indeed continue to gather evidence and strategize as suggested by Angelo and Anthony."
+2024-07-03 20:26:21,479 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:26:22,098 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:26:22,614 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:26:23,277 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:26:29,353 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:26:29,355 - INFO - Aaron received: "I'd like to make a couple of notes here. First, everyone seems to be cautious and that's a good thing. It means we're all mindful of how heavy our decisions can be in this game. Albert here wouldn't want to condemn an innocent civilian as a mafioso." 
+
+"Keeping that in mind, Alex's defensive behavior could indeed reveal something suspicious. But Anthony and Angelo have a point, we can't just base our judgment on that alone. We need more clues and more discussions like this."
+
+"Also, I find it interesting that Angelo brings Aaron and Anthony into the mix in his argument. Is it possible that he's trying to divert suspicion by accusing others? Or maybe to spread confusion? I'm just throwing ideas out there, it's just an observation that has me pondering." 
+
+"All in all, every one of us could be a mafioso at this point. There's still a lot to discuss."
+2024-07-03 20:26:29,355 - INFO - Anthony received: "I'd like to make a couple of notes here. First, everyone seems to be cautious and that's a good thing. It means we're all mindful of how heavy our decisions can be in this game. Albert here wouldn't want to condemn an innocent civilian as a mafioso." 
+
+"Keeping that in mind, Alex's defensive behavior could indeed reveal something suspicious. But Anthony and Angelo have a point, we can't just base our judgment on that alone. We need more clues and more discussions like this."
+
+"Also, I find it interesting that Angelo brings Aaron and Anthony into the mix in his argument. Is it possible that he's trying to divert suspicion by accusing others? Or maybe to spread confusion? I'm just throwing ideas out there, it's just an observation that has me pondering." 
+
+"All in all, every one of us could be a mafioso at this point. There's still a lot to discuss."
+2024-07-03 20:26:29,356 - INFO - Angelo received: "I'd like to make a couple of notes here. First, everyone seems to be cautious and that's a good thing. It means we're all mindful of how heavy our decisions can be in this game. Albert here wouldn't want to condemn an innocent civilian as a mafioso." 
+
+"Keeping that in mind, Alex's defensive behavior could indeed reveal something suspicious. But Anthony and Angelo have a point, we can't just base our judgment on that alone. We need more clues and more discussions like this."
+
+"Also, I find it interesting that Angelo brings Aaron and Anthony into the mix in his argument. Is it possible that he's trying to divert suspicion by accusing others? Or maybe to spread confusion? I'm just throwing ideas out there, it's just an observation that has me pondering." 
+
+"All in all, every one of us could be a mafioso at this point. There's still a lot to discuss."
+2024-07-03 20:26:29,356 - INFO - Alex received: "I'd like to make a couple of notes here. First, everyone seems to be cautious and that's a good thing. It means we're all mindful of how heavy our decisions can be in this game. Albert here wouldn't want to condemn an innocent civilian as a mafioso." 
+
+"Keeping that in mind, Alex's defensive behavior could indeed reveal something suspicious. But Anthony and Angelo have a point, we can't just base our judgment on that alone. We need more clues and more discussions like this."
+
+"Also, I find it interesting that Angelo brings Aaron and Anthony into the mix in his argument. Is it possible that he's trying to divert suspicion by accusing others? Or maybe to spread confusion? I'm just throwing ideas out there, it's just an observation that has me pondering." 
+
+"All in all, every one of us could be a mafioso at this point. There's still a lot to discuss."
+2024-07-03 20:26:29,356 - INFO - Adam received: "I'd like to make a couple of notes here. First, everyone seems to be cautious and that's a good thing. It means we're all mindful of how heavy our decisions can be in this game. Albert here wouldn't want to condemn an innocent civilian as a mafioso." 
+
+"Keeping that in mind, Alex's defensive behavior could indeed reveal something suspicious. But Anthony and Angelo have a point, we can't just base our judgment on that alone. We need more clues and more discussions like this."
+
+"Also, I find it interesting that Angelo brings Aaron and Anthony into the mix in his argument. Is it possible that he's trying to divert suspicion by accusing others? Or maybe to spread confusion? I'm just throwing ideas out there, it's just an observation that has me pondering." 
+
+"All in all, every one of us could be a mafioso at this point. There's still a lot to discuss."
+2024-07-03 20:26:30,062 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:26:30,650 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:26:31,465 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:26:32,101 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:26:32,699 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:26:40,378 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:26:40,380 - INFO - Aaron received: Adam says: "I believe everyone here has made some decent points. Alex's defensive behavior has certainly raised concerns, but as has been pointed out, that alone isn't enough to accuse him of being a mafioso. It could merely be his careful strategy to survive. The same logic applies to everyone else here. We are all trying our best to stay on top of things, and this may cause behaviors that seem suspicious. 
+
+As for Angelo's inclusion of Aaron and Anthony in his argument, Albert brings up an interesting point. This may be a defensive play, but we must also consider if it's a move to spread confusion or shift suspicion away from himself. 
+
+In the end, we need more evidence and discussion to make a rational decision. We should continue to stay cautious, observe, and not rush into voting someone out. Remember, two among us are mafiosos, and every error counts a lot."
+2024-07-03 20:26:40,380 - INFO - Anthony received: Adam says: "I believe everyone here has made some decent points. Alex's defensive behavior has certainly raised concerns, but as has been pointed out, that alone isn't enough to accuse him of being a mafioso. It could merely be his careful strategy to survive. The same logic applies to everyone else here. We are all trying our best to stay on top of things, and this may cause behaviors that seem suspicious. 
+
+As for Angelo's inclusion of Aaron and Anthony in his argument, Albert brings up an interesting point. This may be a defensive play, but we must also consider if it's a move to spread confusion or shift suspicion away from himself. 
+
+In the end, we need more evidence and discussion to make a rational decision. We should continue to stay cautious, observe, and not rush into voting someone out. Remember, two among us are mafiosos, and every error counts a lot."
+2024-07-03 20:26:40,381 - INFO - Angelo received: Adam says: "I believe everyone here has made some decent points. Alex's defensive behavior has certainly raised concerns, but as has been pointed out, that alone isn't enough to accuse him of being a mafioso. It could merely be his careful strategy to survive. The same logic applies to everyone else here. We are all trying our best to stay on top of things, and this may cause behaviors that seem suspicious. 
+
+As for Angelo's inclusion of Aaron and Anthony in his argument, Albert brings up an interesting point. This may be a defensive play, but we must also consider if it's a move to spread confusion or shift suspicion away from himself. 
+
+In the end, we need more evidence and discussion to make a rational decision. We should continue to stay cautious, observe, and not rush into voting someone out. Remember, two among us are mafiosos, and every error counts a lot."
+2024-07-03 20:26:40,381 - INFO - Alex received: Adam says: "I believe everyone here has made some decent points. Alex's defensive behavior has certainly raised concerns, but as has been pointed out, that alone isn't enough to accuse him of being a mafioso. It could merely be his careful strategy to survive. The same logic applies to everyone else here. We are all trying our best to stay on top of things, and this may cause behaviors that seem suspicious. 
+
+As for Angelo's inclusion of Aaron and Anthony in his argument, Albert brings up an interesting point. This may be a defensive play, but we must also consider if it's a move to spread confusion or shift suspicion away from himself. 
+
+In the end, we need more evidence and discussion to make a rational decision. We should continue to stay cautious, observe, and not rush into voting someone out. Remember, two among us are mafiosos, and every error counts a lot."
+2024-07-03 20:26:40,381 - INFO - Albert received: Adam says: "I believe everyone here has made some decent points. Alex's defensive behavior has certainly raised concerns, but as has been pointed out, that alone isn't enough to accuse him of being a mafioso. It could merely be his careful strategy to survive. The same logic applies to everyone else here. We are all trying our best to stay on top of things, and this may cause behaviors that seem suspicious. 
+
+As for Angelo's inclusion of Aaron and Anthony in his argument, Albert brings up an interesting point. This may be a defensive play, but we must also consider if it's a move to spread confusion or shift suspicion away from himself. 
+
+In the end, we need more evidence and discussion to make a rational decision. We should continue to stay cautious, observe, and not rush into voting someone out. Remember, two among us are mafiosos, and every error counts a lot."
+2024-07-03 20:26:41,031 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:26:41,920 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:26:43,246 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:26:44,593 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:26:45,259 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:26:45,793 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:26:46,520 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:26:47,480 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:26:48,400 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:26:49,127 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:26:49,904 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:26:50,620 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:26:51,544 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:26:52,768 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:26:54,011 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:26:54,696 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:26:55,439 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:26:56,105 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:26:57,384 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:26:58,407 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:26:59,221 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:00,986 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:01,526 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:02,486 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:03,657 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:04,648 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:05,502 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:06,549 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:07,272 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:08,004 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:08,693 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:09,461 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:10,280 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:10,999 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:12,430 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:13,003 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:13,722 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:14,572 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:15,141 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:15,768 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:16,792 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:17,426 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:18,138 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:18,758 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:19,384 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:20,839 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:21,445 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:22,876 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:23,378 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:24,104 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:25,439 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:26,149 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:27,176 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:27,800 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:28,403 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:29,321 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:30,015 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:30,720 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:37,352 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:37,355 - INFO - Alex received: Aaron says: "I agree with the consensus that we ought not hastily accuse and vote each other out. All of us have displayed suspicious behavior, if we are to go by being cautious as indicative of guilt, myself included. It is a balance we have to maintain in order to survive in this game, while trying to uncover who the mafioso amongst us is. 
+
+That being said, I do find the arguments against Alex somewhat convincing. His behavior has been more defensive in comparison, and though that might not directly imply that he is a mafioso, it is noteworthy. Yet, we should heed Albert's point, where he mentioned possible diversion of suspicion by accusing others. In essence, all of us have reasons to be suspected, but we should objectively analyze the evidence before making any premature decisions."
+
+Let's proceed with collecting more evidence and discussing further. We must remember that our primary objective is to identify the mafioso, lest an innocent civilian gets voted out."
+2024-07-03 20:27:37,355 - INFO - Albert received: Aaron says: "I agree with the consensus that we ought not hastily accuse and vote each other out. All of us have displayed suspicious behavior, if we are to go by being cautious as indicative of guilt, myself included. It is a balance we have to maintain in order to survive in this game, while trying to uncover who the mafioso amongst us is. 
+
+That being said, I do find the arguments against Alex somewhat convincing. His behavior has been more defensive in comparison, and though that might not directly imply that he is a mafioso, it is noteworthy. Yet, we should heed Albert's point, where he mentioned possible diversion of suspicion by accusing others. In essence, all of us have reasons to be suspected, but we should objectively analyze the evidence before making any premature decisions."
+
+Let's proceed with collecting more evidence and discussing further. We must remember that our primary objective is to identify the mafioso, lest an innocent civilian gets voted out."
+2024-07-03 20:27:37,355 - INFO - Adam received: Aaron says: "I agree with the consensus that we ought not hastily accuse and vote each other out. All of us have displayed suspicious behavior, if we are to go by being cautious as indicative of guilt, myself included. It is a balance we have to maintain in order to survive in this game, while trying to uncover who the mafioso amongst us is. 
+
+That being said, I do find the arguments against Alex somewhat convincing. His behavior has been more defensive in comparison, and though that might not directly imply that he is a mafioso, it is noteworthy. Yet, we should heed Albert's point, where he mentioned possible diversion of suspicion by accusing others. In essence, all of us have reasons to be suspected, but we should objectively analyze the evidence before making any premature decisions."
+
+Let's proceed with collecting more evidence and discussing further. We must remember that our primary objective is to identify the mafioso, lest an innocent civilian gets voted out."
+2024-07-03 20:27:38,199 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:38,848 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:39,669 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:40,325 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:41,203 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:41,698 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:42,250 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:42,945 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:45,743 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:45,746 - INFO - Aaron received: Alex says: "I can't help but notice that throughout our discussions, Aaron has been consistently pointing fingers towards me, perhaps in an attempt to divert attention from themselves. Angelo's caution towards Anthony and Aaron makes sense in this context. Also, Albert's notion about diversion of suspicion holds weight here. I suggest we dig a bit deeper into Aaron's behavior."
+2024-07-03 20:27:45,746 - INFO - Albert received: Alex says: "I can't help but notice that throughout our discussions, Aaron has been consistently pointing fingers towards me, perhaps in an attempt to divert attention from themselves. Angelo's caution towards Anthony and Aaron makes sense in this context. Also, Albert's notion about diversion of suspicion holds weight here. I suggest we dig a bit deeper into Aaron's behavior."
+2024-07-03 20:27:45,746 - INFO - Adam received: Alex says: "I can't help but notice that throughout our discussions, Aaron has been consistently pointing fingers towards me, perhaps in an attempt to divert attention from themselves. Angelo's caution towards Anthony and Aaron makes sense in this context. Also, Albert's notion about diversion of suspicion holds weight here. I suggest we dig a bit deeper into Aaron's behavior."
+2024-07-03 20:27:46,683 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:47,653 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:48,580 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:49,293 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:49,930 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:50,663 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:51,342 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:52,162 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:52,756 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:27:52,913 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 20:27:52,914 - INFO - Retrying request to /chat/completions in 4.000000 seconds
+2024-07-03 20:28:02,951 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:28:02,953 - INFO - Aaron received: Albert says: "In continuation with what I have conveyed earlier, I still can't help but be suspicious of Alex. His defensive behavior and the way he points out Aaron can be a diversion tactic. However, I noticed Adam's neutral stance in this discussion and I agree with him on the fact that we need more evidence. I also appreciate Aaron's willingness to accept his own suspicious behavior. His openness does sway my opinion on him being the mafia. Nevertheless, let's not forget that any one of us could be playing a very clever game here, and as Adam mentioned, every error counts a lot. So let's continue to observe, discuss and most importantly, be careful about accusing anyone prematurely."
+2024-07-03 20:28:02,953 - INFO - Alex received: Albert says: "In continuation with what I have conveyed earlier, I still can't help but be suspicious of Alex. His defensive behavior and the way he points out Aaron can be a diversion tactic. However, I noticed Adam's neutral stance in this discussion and I agree with him on the fact that we need more evidence. I also appreciate Aaron's willingness to accept his own suspicious behavior. His openness does sway my opinion on him being the mafia. Nevertheless, let's not forget that any one of us could be playing a very clever game here, and as Adam mentioned, every error counts a lot. So let's continue to observe, discuss and most importantly, be careful about accusing anyone prematurely."
+2024-07-03 20:28:02,953 - INFO - Adam received: Albert says: "In continuation with what I have conveyed earlier, I still can't help but be suspicious of Alex. His defensive behavior and the way he points out Aaron can be a diversion tactic. However, I noticed Adam's neutral stance in this discussion and I agree with him on the fact that we need more evidence. I also appreciate Aaron's willingness to accept his own suspicious behavior. His openness does sway my opinion on him being the mafia. Nevertheless, let's not forget that any one of us could be playing a very clever game here, and as Adam mentioned, every error counts a lot. So let's continue to observe, discuss and most importantly, be careful about accusing anyone prematurely."
+2024-07-03 20:28:04,003 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:28:04,940 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:28:05,850 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:28:06,317 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:28:07,367 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:28:07,908 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:28:08,073 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 20:28:08,074 - INFO - Retrying request to /chat/completions in 1.000000 seconds
+2024-07-03 20:28:09,534 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:28:09,724 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 20:28:09,725 - INFO - Retrying request to /chat/completions in 1.000000 seconds
+2024-07-03 20:28:11,238 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:28:11,833 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:28:12,316 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 20:28:12,317 - INFO - Retrying request to /chat/completions in 1.000000 seconds
+2024-07-03 20:28:14,376 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:28:14,702 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 20:28:14,704 - INFO - Retrying request to /chat/completions in 4.000000 seconds
+2024-07-03 20:28:24,929 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:28:24,933 - INFO - Aaron received: Adam says: "Based on Albert, Alex and Aaron's statements, the suspicions are revolving around each other. Alex, as mentioned earlier, has been quite defensive and it does raise questions. Although I agree with Aaron's take, where he mentions that being defensive does not directly imply someone as a mafioso, however, it is something we should look into.
+
+Albert's analysis of Alex's behaviour holds weight, and it is something we cannot just ignore. On the other hand, Aaron’s statements have been rather neutral, and he seems to be taking a more analytical approach into uncovering the mafia. 
+
+Remember, the mafioso could be playing an intricate game, subtly casting suspicion on others while keeping a low profile. We must be very careful and mindful in our decision making. Let us continue to gather more evidence, increase our discussions and make decisions based on decisive evidence, rather than conjecture."
+2024-07-03 20:28:24,933 - INFO - Alex received: Adam says: "Based on Albert, Alex and Aaron's statements, the suspicions are revolving around each other. Alex, as mentioned earlier, has been quite defensive and it does raise questions. Although I agree with Aaron's take, where he mentions that being defensive does not directly imply someone as a mafioso, however, it is something we should look into.
+
+Albert's analysis of Alex's behaviour holds weight, and it is something we cannot just ignore. On the other hand, Aaron’s statements have been rather neutral, and he seems to be taking a more analytical approach into uncovering the mafia. 
+
+Remember, the mafioso could be playing an intricate game, subtly casting suspicion on others while keeping a low profile. We must be very careful and mindful in our decision making. Let us continue to gather more evidence, increase our discussions and make decisions based on decisive evidence, rather than conjecture."
+2024-07-03 20:28:24,933 - INFO - Albert received: Adam says: "Based on Albert, Alex and Aaron's statements, the suspicions are revolving around each other. Alex, as mentioned earlier, has been quite defensive and it does raise questions. Although I agree with Aaron's take, where he mentions that being defensive does not directly imply someone as a mafioso, however, it is something we should look into.
+
+Albert's analysis of Alex's behaviour holds weight, and it is something we cannot just ignore. On the other hand, Aaron’s statements have been rather neutral, and he seems to be taking a more analytical approach into uncovering the mafia. 
+
+Remember, the mafioso could be playing an intricate game, subtly casting suspicion on others while keeping a low profile. We must be very careful and mindful in our decision making. Let us continue to gather more evidence, increase our discussions and make decisions based on decisive evidence, rather than conjecture."
+2024-07-03 20:28:25,608 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:28:26,332 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:28:27,183 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:28:27,823 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:28:28,475 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:28:29,231 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:28:30,026 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:28:30,562 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:28:31,104 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:28:31,689 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:28:32,674 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:28:33,325 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:28:33,575 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 20:28:33,576 - INFO - Retrying request to /chat/completions in 3.000000 seconds
+2024-07-03 20:28:37,293 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:28:38,296 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:28:39,061 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:28:39,875 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:28:40,058 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 20:28:40,060 - INFO - Retrying request to /chat/completions in 1.000000 seconds
+2024-07-03 20:28:41,671 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:28:42,490 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:28:44,077 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:28:44,665 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:28:44,837 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 20:28:44,838 - INFO - Retrying request to /chat/completions in 1.000000 seconds
+2024-07-03 20:28:46,829 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:28:47,414 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:28:48,040 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:28:48,651 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:28:48,923 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 20:28:48,925 - INFO - Retrying request to /chat/completions in 4.000000 seconds
+2024-07-03 20:28:53,533 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:28:54,319 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:28:54,546 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 20:28:54,547 - INFO - Retrying request to /chat/completions in 1.000000 seconds
+2024-07-03 20:28:56,261 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:28:57,186 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:28:57,357 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 20:28:57,358 - INFO - Retrying request to /chat/completions in 1.000000 seconds
+2024-07-03 20:28:59,026 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:29:00,013 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:29:00,872 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:29:01,043 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 20:29:01,044 - INFO - Retrying request to /chat/completions in 1.000000 seconds
+2024-07-03 20:29:02,615 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:29:03,634 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:29:04,239 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:29:05,032 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:29:06,691 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:29:06,860 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 20:29:06,861 - INFO - Retrying request to /chat/completions in 3.000000 seconds
+2024-07-03 20:29:10,414 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:29:10,669 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 20:29:10,671 - INFO - Retrying request to /chat/completions in 1.000000 seconds
+2024-07-03 20:29:12,379 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:29:13,530 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:29:14,268 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:29:14,472 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 20:29:14,475 - INFO - Retrying request to /chat/completions in 1.000000 seconds
+2024-07-03 20:29:16,094 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:29:16,752 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:29:17,762 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:29:17,957 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 20:29:17,959 - INFO - Retrying request to /chat/completions in 1.000000 seconds
+2024-07-03 20:29:19,717 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:29:21,158 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:29:22,070 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:29:22,889 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:29:23,916 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:29:24,088 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 20:29:24,091 - INFO - Retrying request to /chat/completions in 3.000000 seconds
+2024-07-03 20:29:33,343 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:29:34,128 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:29:35,114 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:29:35,831 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:29:36,496 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:29:37,099 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:29:37,735 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:29:38,452 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:29:39,170 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:29:39,683 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:29:40,502 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:29:41,319 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:29:41,918 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:29:42,857 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:29:43,451 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:29:44,550 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:29:45,081 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:29:45,270 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 20:29:45,271 - INFO - Retrying request to /chat/completions in 1.000000 seconds
+2024-07-03 20:29:46,814 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:29:47,176 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 20:29:47,177 - INFO - Retrying request to /chat/completions in 1.000000 seconds
+2024-07-03 20:29:48,813 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:29:49,755 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:29:49,929 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 20:29:49,930 - INFO - Retrying request to /chat/completions in 2.000000 seconds
+2024-07-03 20:29:52,478 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:29:53,468 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:29:54,090 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:29:54,466 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 20:29:54,468 - INFO - Retrying request to /chat/completions in 1.000000 seconds
+2024-07-03 20:29:56,049 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:29:56,215 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 20:29:56,216 - INFO - Retrying request to /chat/completions in 1.000000 seconds
+2024-07-03 20:29:57,760 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:29:57,992 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 20:29:57,993 - INFO - Retrying request to /chat/completions in 1.000000 seconds
+2024-07-03 20:29:59,570 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:30:00,181 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:30:00,612 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 20:30:00,613 - INFO - Retrying request to /chat/completions in 1.000000 seconds
+2024-07-03 20:30:02,381 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:30:02,873 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 20:30:02,874 - INFO - Retrying request to /chat/completions in 1.000000 seconds
+2024-07-03 20:30:04,448 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:30:04,639 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 20:30:04,640 - INFO - Retrying request to /chat/completions in 3.000000 seconds
+2024-07-03 20:30:16,729 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:30:16,732 - INFO - Adam received: As Aaron, I would respond with: "I understand the suspicions against me due to the nature of this game. It's a stressful situation where we're all trying to figure out who the mafioso is, and I can't blame any of you for your doubts. We have all been carefully watching each other's behavior, and making reasoned judgments. 
+
+Regarding the accusations on me, I've always been transparent about my intentions, and my constant pointing of fingers was simply my attempt to stir up discussions and get everyone involved to help us find the mafioso. I bear no ill will towards Alex, and I meant no harm in implicating them. I agree with Adam that we need more concrete evidence before we make a final decision, and I am more than willing to participate in further discussions and supply any information that can help clear my name and figure out who the mafioso is."
+2024-07-03 20:30:17,569 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:30:18,238 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:30:18,824 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:30:19,767 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:30:20,441 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:30:21,215 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:30:21,933 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:30:22,493 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:30:23,156 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:30:23,348 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 20:30:23,350 - INFO - Retrying request to /chat/completions in 1.000000 seconds
+2024-07-03 20:30:24,933 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:30:25,779 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:30:25,947 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 20:30:25,949 - INFO - Retrying request to /chat/completions in 1.000000 seconds
+2024-07-03 20:30:28,937 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:30:29,653 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:30:29,972 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 20:30:29,973 - INFO - Retrying request to /chat/completions in 3.000000 seconds
+2024-07-03 20:30:41,218 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:30:41,228 - INFO - Aaron received: As Adam, I would respond with: "Aaron, I appreciate your constant engagement in the discussions and willingness to be transparent in the process all this while. However, it seems your defense is more focused on why you aren't the mafioso, rather than pointing out who could potentially be.
+
+I must now voice my suspicion towards you, Aaron. I recall that earlier in the discussions, you and Alex had a series of accusations against each other. Despite that, you have now turned the focus towards reasoning why you're not the mafia and now we are left with only two of us. Could it be that you've diverted attention from yourself all this while?
+
+Let's remember, winning the game as the mafia entails deceiving others. Although accused, you recommended to proceed with caution rather than making impulsive decisions which seemed very reasonable back then. But looking back, it might just have been a strategy to turn the odds in your favor. I think there is more we need to revisit and discuss about your behavior before making a decision."
+2024-07-03 20:30:41,896 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:30:42,679 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:30:43,475 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:30:44,500 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:30:45,423 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:30:46,096 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:30:46,981 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:30:47,996 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:30:48,504 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:30:49,420 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:30:50,091 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:30:50,806 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:30:51,569 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:30:52,697 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:30:53,333 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:30:54,378 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:30:54,611 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 20:30:54,612 - INFO - Retrying request to /chat/completions in 1.000000 seconds
+2024-07-03 20:30:56,248 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:30:56,414 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 20:30:56,416 - INFO - Retrying request to /chat/completions in 1.000000 seconds
+2024-07-03 20:30:58,039 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:30:58,287 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 20:30:58,290 - INFO - Retrying request to /chat/completions in 1.000000 seconds
+2024-07-03 20:31:00,018 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:31:00,644 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:31:00,900 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 20:31:00,901 - INFO - Retrying request to /chat/completions in 1.000000 seconds
+2024-07-03 20:31:02,674 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:31:03,532 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:31:04,367 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:31:05,321 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:31:05,900 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:31:06,295 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 20:31:06,298 - INFO - Retrying request to /chat/completions in 1.000000 seconds
+2024-07-03 20:31:07,929 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:31:09,022 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:31:10,098 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:31:11,652 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:31:12,305 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:31:13,069 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 20:31:13,252 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 20:31:13,253 - INFO - Retrying request to /chat/completions in 3.000000 seconds
+2024-07-03 20:31:16,805 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"

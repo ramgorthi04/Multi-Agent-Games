@@ -2,25 +2,12 @@ from openai import OpenAI
 import openai
 import os
 
-def get_LM_response(prompt, model="mistral-7b", json_mode = False, max_tokens=None):
-    """Gets response from specified language model via Lepton AI or OpenAI
-        
-    Parameters
-    ----------
-    prompt
-    model : str, defaults to "mistral-7b"
-        Can also input "Wizardlm-2-8x22b"
-    json_mode : boolean, defaults false
-    
-    Returns
-    -------
-    response as string
-    """
+def get_LM_response(prompt, model="mistral-7b", json_mode=False, max_tokens=None):
     if model.startswith('gpt'):
         return get_gpt_response(prompt, model)  
-    if (model == "mistral-7b"):
+    if model == "mistral-7b":
         model_url = "https://mistral-7b.lepton.run/api/v1/"
-    if (model == "Wizardlm-2-8x22b"):
+    if model == "Wizardlm-2-8x22b":
         model_url = "https://wizardlm-2-8x22b.lepton.run/api/v1/"
     client = openai.OpenAI(
         base_url=model_url,
@@ -38,8 +25,6 @@ def get_LM_response(prompt, model="mistral-7b", json_mode = False, max_tokens=No
     if max_tokens:
         completion_args["max_tokens"] = max_tokens
 
-    if __debug__:
-        print(f"Getting response from {model} with prompt: {prompt}")
     completion = client.chat.completions.create(**completion_args)
 
     response = ""
@@ -48,52 +33,23 @@ def get_LM_response(prompt, model="mistral-7b", json_mode = False, max_tokens=No
             continue
         content = chunk.choices[0].delta.content
         if content:
-            response = response + content
+            response += content
     return response
 
-
 def get_gpt_response(prompt, gpt_model="gpt-4", json_mode=False, response_format=""):
-    """
-    User provides prompt and gets the text of GPT response
-
-    Parameters
-    ----------
-    prompt : str
-    gpt_model : str, optional (default is "gpt-4")
-        Can also input "gpt-3.5-turbo"
-    response_format : str, optional
-        Input "json" for json format
-    Returns
-    -------
-    str
-        text response returned by chat completion agent
-    None
-        if no response received by GPT
-    """
-
     client = OpenAI(
         api_key=os.environ.get("openai_api_key"),
     )
     if response_format == "json": 
         response = client.chat.completions.create(
-        messages=[
-        {
-            "role": "user",
-            "content": prompt,
-        }
-        ],
-        response_format={ "type": "json_object" },
-        model=gpt_model,
+            messages=[{"role": "user", "content": prompt}],
+            response_format={"type": "json_object"},
+            model=gpt_model,
         )
     else:
         response = client.chat.completions.create(
-        messages=[
-        {
-            "role": "user",
-            "content": prompt,
-        }
-        ],
-        model=gpt_model,
+            messages=[{"role": "user", "content": prompt}],
+            model=gpt_model,
         )
     if response.choices:
         response_text = response.choices[0].message.content
